@@ -11,4 +11,4 @@
 🔹 Automation: Selenium, UFT  
 🔹 API Testing: Postman, Rest Assured  
 🔹 CI/CD: Jenkins, GitHub, Maven  
-🔹 Frameworks: POM, Hybrid Framework, TestNG  
+🔹 Frameworks: POM, Hybrid Framework, TestNG
