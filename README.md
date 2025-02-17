@@ -1,4 +1,4 @@
-👋 Hi, I’m @Sandeep  
+#👋 Hi, I’m @Sandeep  
 🚀 Aspiring SDET | Automation Tester  
 👀 Interested in: Test Automation, AI in Testing  
 🌱 Currently learning: API Testing (Postman, Rest Assured)  
